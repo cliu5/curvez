@@ -1,0 +1,129 @@
+#face
+circle
+250 250 0 200
+circle
+252 252 0 202
+circle
+254 254 0 204
+circle
+258 258 0 208
+circle
+260 260 0 210
+
+circle
+220 220 0 180
+circle
+222 222 0 182
+circle
+224 224 0 184
+circle
+228 228 0 188
+circle
+220 220 0 190
+
+
+circle
+150 150 0 100
+circle
+152 152 0 102
+circle
+154 154 0 104
+circle
+158 158 0 108
+circle
+160 160 0 110
+
+
+circle
+200 200 0 160
+circle
+202 202 0 162
+circle
+204 204 0 164
+circle
+208 208 0 166
+circle
+210 210 0 168
+
+circle
+180 180 0 140
+circle
+182 182 0 142
+circle
+184 184 0 144
+circle
+188 188 0 146
+circle
+190 190 0 148
+
+
+circle
+160 160 0 120
+circle
+162 162 0 122
+circle
+164 164 0 124
+circle
+168 168 0 126
+circle
+170 170 0 128
+
+circle
+140 140 0 90
+circle
+142 142 0 92
+circle
+144 144 0 94
+circle
+146 146 0 96
+circle
+148 148 0 98
+
+
+circle
+120 120 0 80
+circle
+122 122 0 82
+circle
+124 124 0 84
+circle
+126 126 0 86
+circle
+128 128 0 88
+
+circle
+100 100 0 70
+circle
+102 102 0 72
+circle
+104 104 0 74
+circle
+106 106 0 76
+circle
+108 108 0 78
+
+circle
+60 60 0 50
+circle
+62 62 0 52
+circle
+64 64 0 54
+circle
+66 66 0 56
+circle
+68 68 0 58
+
+circle
+80 80 0 60
+circle
+82 82 0 62
+circle
+84 84 0 64
+circle
+86 86 0 66
+circle
+88 88 0 68
+
+display
+save
+face.png
