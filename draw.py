@@ -10,8 +10,8 @@ def add_circle( points, cx, cy, cz, r, step ):
         x1cor = cx+r*math.cos(2*math.pi*t) 
         y1cor = cy+r*math.sin(2*math.pi*t)
         add_edge(points, x0cor, y0cor, 0, x1cor, y1cor, 0)
-        xcor = x1cor
-        ycor = y1cor
+        x0cor = x1cor
+        y0cor = y1cor
         t += step
 
 def add_curve( points, x0, y0, x1, y1, x2, y2, x3, y3, step, curve_type ):
